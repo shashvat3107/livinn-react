@@ -1,0 +1,300 @@
+
+.Page-Title {
+  height: 40vh;
+  background-color: #EF6C00 !important;
+  font-weight: 700;
+  padding-left: 15px;
+  padding-top: 20px;
+}
+.room-banner {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  /* background-color: #EF6C00 !important; */
+  background-image: url(../img/room/1.jpeg);
+  /* filter: brightness(50%); */
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 0;
+}
+.room-banner::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  left: 0;
+  right: 0;
+  top: 0;
+  opacity: 0.7;
+  z-index: 0;
+}
+.room-banner-cherry {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  /* background-color: #EF6C00 !important; */
+  background-image: url(../img/room/2.jpeg);
+  /* filter: brightness(50%); */
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 0;
+}
+.room-banner-cherry::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  left: 0;
+  right: 0;
+  top: 0;
+  opacity: 0.7;
+  z-index: 0;
+}
+.room-banner-suri-neni{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  /* background-color: #EF6C00 !important; */
+  background-image: url(../img/room/6.JPG);
+  /* filter: brightness(50%); */
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 0;
+}
+.room-banner-suri-neni::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  left: 0;
+  right: 0;
+  top: 0;
+  opacity: 0.7;
+  z-index: 0;
+}
+.room-banner-CranBerry{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  /* background-color: #EF6C00 !important; */
+  background-image: url(../img/room/7.JPG);
+  /* filter: brightness(50%); */
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 0;
+}
+.room-banner-CranBerry::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  left: 0;
+  right: 0;
+  top: 0;
+  opacity: 0.7;
+  z-index: 0;
+}
+.room-banner-Orange{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  /* background-color: #EF6C00 !important; */
+  background-image: url(../img/room/4.jpeg);
+  /* filter: brightness(50%); */
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 0;
+}
+.room-banner-Orange::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  left: 0;
+  right: 0;
+  top: 0;
+  opacity: 0.7;
+  z-index: 0;
+}
+.room-banner-RoseBerry{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  /* background-color: #EF6C00 !important; */
+  background-image: url(../img/room/10.JPG);
+  /* filter: brightness(50%); */
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 0;
+}
+.room-banner-RoseBerry::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  left: 0;
+  right: 0;
+  top: 0;
+  opacity: 0.7;
+  z-index: 0;
+}
+.room-banner-StrawBerry{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  /* background-color: #EF6C00 !important; */
+  background-image: url(../img/room/11.jpeg);
+  /* filter: brightness(50%); */
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 0;
+}
+.room-banner-StrawBerry::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  left: 0;
+  right: 0;
+  top: 0;
+  opacity: 0.7;
+  z-index: 0;
+}
+.room-banner-DewBerry{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  /* background-color: #EF6C00 !important; */
+  background-image: url(../img/room/5.jpeg);
+  /* filter: brightness(50%); */
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 0;
+}
+.room-banner-DewBerry::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  left: 0;
+  right: 0;
+  top: 0;
+  opacity: 0.7;
+  z-index: 0;
+}
+.room-banner-RRRCampus{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  /* background-color: #EF6C00 !important; */
+  background-image: url(../img/room/12.jpeg);
+  /* filter: brightness(50%); */
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 0;
+}
+.room-banner-RRRCampus::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  left: 0;
+  right: 0;
+  top: 0;
+  opacity: 0.7;
+  z-index: 0;
+}
+.room-banner-SnowBerry{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  /* background-color: #EF6C00 !important; */
+  background-image: url(../img/room/13.jpeg);
+  /* filter: brightness(50%); */
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 0;
+}
+.room-banner-SnowBerry::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  left: 0;
+  right: 0;
+  top: 0;
+  opacity: 0.7;
+  z-index: 0;
+}
+.room-banner-WhiteBerry{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  /* background-color: #EF6C00 !important; */
+  background-image: url(../img/room/14.jpeg);
+  /* filter: brightness(50%); */
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 0;
+}
+.room-banner-WhiteBerry::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  left: 0;
+  right: 0;
+  top: 0;
+  opacity: 0.7;
+  z-index: 0;
+}
+.top-services-section-1
+{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: none;
+}
+#hotel
+{
+color: #fefafa;;
+position: relative;
+z-index: 1
+
+}
+.hotel-img{
+color: #fefafa;;
+  padding-bottom: auto;
+  position: relative;
+  z-index: 1
+
+}
+iframe{
+  height: 10%;
+  width: 40%;
+}
+.map{
+position: relative;
+z-index: 1 !important;
+}
